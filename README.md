@@ -1,4 +1,4 @@
 Hi I am Byorn.
 
-I specialise on coding projects on React/Typescript and Node/SpringBoot Full stack applications.
-I also automate the devops pipelines to build cloud native software utilizing Kubenetes/Docker and integrating with AWS services.
+My most recent github projects are mainly on  React/Typescript and Golang Full stack applications.
+I am able to get my hands dirty for automating CI/CD pipelines and have also worked with K8s/Docker and AWS Services. 
